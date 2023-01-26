@@ -1,5 +1,7 @@
-print("hello world")
+print("Hello world")
 
 n = input(print("Qual seu nome?"))
 
 print("Seu nome é: "+ n) 
+
+print("Nova linha")
